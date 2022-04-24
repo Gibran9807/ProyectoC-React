@@ -1,0 +1,127 @@
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Api.exe
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto Hector\Api\obj\Debug\net6.0\ref\Api.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\appsettings.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Api.exe
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Api.deps.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Api.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Api.pdb
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Entities.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Entities.pdb
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\refint\Api.dll
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.pdb
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+c:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Metodo sencillo\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Api.exe
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Entities.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\bin\Debug\net6.0\Entities.pdb
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\gibra\Desktop\PLL\Web\.Net\Proyecto\Backend\Api\obj\Debug\net6.0\ref\Api.dll
