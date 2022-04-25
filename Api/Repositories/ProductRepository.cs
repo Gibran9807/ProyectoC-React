@@ -48,7 +48,7 @@ namespace Api.Repositories
         public async Task<bool> InsertProduct(Products products)
         {
             
-            using (MySqlConnection cn = new MySqlConnection("Server=localhost;Port=3306;Database=services;Uid=root;Pwd=Fallout98;AllowUserVariables=True;"))
+            using (MySqlConnection cn = new MySqlConnection("Server=lin-2126-2215-mysql-primary.servers.linodedb.net;Port=3306;Database=services;Uid=linroot;Pwd=Q2OWP^YbR5kfcrqV;AllowUserVariables=True;"))
             {
                 var cmd = new MySqlCommand("SELECT COUNT(*) FROM products WHERE ID = LPAD(@ID, 8, '0')", cn);
 
